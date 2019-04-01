@@ -1,0 +1,34 @@
+body, html{
+    padding:0;
+    margin:0;
+}
+.header{
+    text-align:center;
+}
+.main-contents{
+    text-align:center;
+    padding-top:2em;
+    padding-right:10em;
+    padding-left:10em;
+    padding-bottom:2em;
+}
+.profile{
+    padding:3em;
+}
+.ITservice{
+    padding:4em;
+}
+.footprint{
+    text-align:center;
+    padding:8em;
+    padding-top:0;
+    padding-bottom:0;
+    margin-bottom:2em;
+}
+.footer{
+    text-align:center;
+    background-color:orange;
+    color:black;
+    border-top:1em solid orange;
+    padding-bottom:1em;
+}
